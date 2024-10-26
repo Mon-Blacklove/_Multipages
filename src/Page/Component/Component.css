@@ -1,0 +1,61 @@
+.components-container {
+  margin: auto;
+  height: 650px;
+  width: 1000px;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  background-image: url('/Wallpaper-Japanese-Cartoon-Street-09.jpg');
+  background-size: auto;
+  color: #000000;
+}
+
+
+.main-container {
+  padding-bottom: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 2rem;
+  width: 800px;
+  box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.box01 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.box02 {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.box03 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+

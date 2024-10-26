@@ -1,0 +1,24 @@
+.variable-container{
+    border: 1px solid rgb(0, 0, 0);
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background-color: #f8c1ff;
+}
+.variable-title{
+    color: rgb(0, 0, 0);
+}
+
+.variable-display{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: space-between;
+}
+.variable-value{
+    color: rgb(0, 0, 0);
+    margin: 1rem;
+    font-size: x-large;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.5rem;
+}

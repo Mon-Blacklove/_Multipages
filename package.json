@@ -2,7 +2,7 @@
   "name": "mutipages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Mon-BlackLove.github.io/_Mutipages",
+  "homepage": "https://Mon-BlackLove.github.io/_Multipages/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

@@ -18,8 +18,8 @@ import Login from "./Page/Login/Login";
 //HashRouter, BrowserRouter
 //localhost:5173/#/<path>
 function App() {
-  const [token, setToken] = useState("user");
-  const [role, setRole] = useState("pass");
+  const [token, setToken] = useState("");
+  const [role, setRole] = useState("");
 
   const [products, setProducts] = useState([]);
   const [carts, setCarts] = useState([]);

@@ -51,6 +51,7 @@ function App() {
                 />
               }
             >
+              <Route path="/" element={<Home />} />
               <Route path="/home" element={<Home />} />
               <Route path="/component" element={<Component />} />
               <Route path="/calculator" element={<Calculator />} />

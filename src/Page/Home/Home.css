@@ -3,7 +3,7 @@
     height: 640px;
     border: 1.5px solid black;
     border-radius: 2rem;
-    background-image: url('/desktop-wallpaper-1920-x-1080-anime-city-landscape-city-anime-sunset.jpg');
+    background-image: url('/public/desktop-wallpaper-1920-x-1080-anime-city-landscape-city-anime-sunset.jpg');
     background-size: 110%;
 
 
@@ -27,7 +27,7 @@
 .text-container{
     margin: 0.5rem;
     text-align: left;   
-     text-shadow: #ffffff 0.1em 0.1em 0.2em;
+    text-shadow: #ffffff 0.1em 0.1em 0.2em;
 
 }
 .text1{
